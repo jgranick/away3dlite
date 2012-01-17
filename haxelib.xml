@@ -1,0 +1,8 @@
+<project name="away3dlite" url="http://www.away3d.com" license="BSD">
+    <user name="elyon"/>
+	<user name="waneck"/>
+    <tag v="cpp"/>
+    <tag v="flash"/>
+    <description>Away3D Lite is fast, lightweight library for rendering 3D content.</description>
+    <version name="1.01">Added examples and made compile fixes for haxe 2.08</version>
+</project>
